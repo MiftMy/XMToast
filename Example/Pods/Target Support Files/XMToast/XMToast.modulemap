@@ -1,0 +1,6 @@
+framework module XMToast {
+  umbrella header "XMToast-umbrella.h"
+
+  export *
+  module * { export * }
+}

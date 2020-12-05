@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - XMToast (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - XMToast (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  XMToast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  XMToast: dfdde2a8573a6d6f8337ffa29ba6823e974856c3
+
+PODFILE CHECKSUM: 23c9d8f69840b6a9ff06613e30fc2ebd8c1e7740
+
+COCOAPODS: 1.8.4

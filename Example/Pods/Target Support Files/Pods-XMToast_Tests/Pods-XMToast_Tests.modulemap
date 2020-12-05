@@ -1,0 +1,6 @@
+framework module Pods_XMToast_Tests {
+  umbrella header "Pods-XMToast_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
